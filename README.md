@@ -1,18 +1,59 @@
-# 💫 About Me:
-# 💫 Hi 👋, I'm Rituraj Singh  <br>**Aspiring Data Scientist || AI/ML Enthusiast || Cloud & DevOps Learner from India 🇮🇳**<br><br>📩 Email Me 👉 ✉️ **singhrituraj114@gmail.com** — Open to collaborations, freelance projects, or anything exciting in tech!<br><br>---<br><br>- 🔭 **I’m currently working on:**  <br>  Anomaly detection models for fire safety systems using rule-based, score-based, and hybrid techniques  <br>  Customer segmentation using RFM analysis for the automobile industry<br><br>- 🌱 **I’m currently learning:**  <br>  Executive PG in AI/ML (IIT Roorkee – iHUB Divyasampark)  <br>  Cloud Computing (NPTEL – Elite Certificate)  <br>  Linux Administration, LXC/LXD, MariaDB setup<br><br>- 👯 **I’m looking to collaborate on:**  <br>  End-to-end AI/ML pipelines, MLOps integration, and real-time data systems<br><br>- 🤔 **I’m looking for help with:**  <br>  Model deployment, optimizing ML solutions for scalability and performance<br><br>- 💬 **Ask me about:**  <br>  AI/ML, Cloud Basics, Linux, SQL for Analytics, Visualization, and Resume Optimization<br><br>- 📫 **How to reach me:**  <br>  ✉️ [singhrituraj114@gmail.com](mailto:singhrituraj114@gmail.com)<br><br>- ⚡ **Fun fact:**  <br>  I'm a digital artist at heart and a data scientist in the making — where logic meets creativity ✨<br><br>---<br>
+## 👋 Hi, I'm Rituraj Singh  
+**Aspiring Data Scientist | AI/ML Enthusiast | Cloud & DevOps Learner from India**
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/671877752647057460) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/riturajsingh_114/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rituraj-singh-4b6684273/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rituraj Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhrituraj114@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Singhrituraj114&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Singhrituraj114&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Singhrituraj114&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📩 [singhrituraj114@gmail.com](mailto:singhrituraj114@gmail.com) — open to collaborations, freelance projects, or anything exciting in tech.
 
 ---
+
+### 🧠 Learning:
+- Executive PG in AI/ML – iHUB Divyasampark, IIT Roorkee  
+- NPTEL Cloud Computing (Elite Certificate – 75%)  
+- Linux Admin, LXC/LXD, MariaDB  
+
+### 🤝 Collaboration Interests:
+- AI/ML pipelines, MLOps, real-time data systems  
+
+### 🛠️ Help Wanted With:
+- Model deployment, ML performance optimization  
+
+### 💬 Topics of Interest:
+- AI/ML, Cloud, Linux, SQL, Visualization, Resume Building  
+
+### 🎨 Fun Fact:
+- A digital artist at heart — where logic meets creativity  
+
+---
+
+## 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rituraj-singh-4b6684273/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/riturajsingh_114/)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/671877752647057460)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:singhrituraj114@gmail.com)
+
+---
+
+## 💻 Tech Stack  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)  
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Singhrituraj114&theme=github_dark&hide_border=true)  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Singhrituraj114&theme=github-dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Singhrituraj114&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=Singhrituraj114&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Profile optimized and generated by ChatGPT -->

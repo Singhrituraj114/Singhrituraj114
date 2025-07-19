@@ -33,8 +33,9 @@
 
 ---
 
-<h2>🌐 Socials</h2>
+<h2>🌐 Socials & 💻 Tech Stack</h2>
 <p align="center">
+  <!-- Socials -->
   <a href="https://www.linkedin.com/in/rituraj-singh-4b6684273/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -49,10 +50,8 @@
   </a>
 </p>
 
----
-
-<h2>💻 Tech Stack</h2>
 <p align="center">
+  <!-- Tech Stack -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -79,13 +78,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Singhrituraj114&icon=0&color=0" alt="Visitor Count"/>
-</p>
-
----
-
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 <p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Singhrituraj114/Singhrituraj114/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>

@@ -1,5 +1,6 @@
-## 👋 Hi, I'm Rituraj Singh  
-**Aspiring Data Scientist | AI/ML Enthusiast | Cloud & DevOps Learner from India**
+<h1 align="center">👋 Hi, I'm Rituraj Singh</h1>
+<h2 align="center"><b>Aspiring Data Scientist | AI/ML Enthusiast | Cloud & DevOps Learner from India</b></h2>
+
 
 📩 [singhrituraj114@gmail.com](mailto:singhrituraj114@gmail.com)
 

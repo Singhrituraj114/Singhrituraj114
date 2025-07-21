@@ -81,7 +81,7 @@ Besides tech, I’m a digital artist—where creativity meets computation. Art i
 <!-- Snake Animation -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/v3/samples/github-snake-dark.gif" />
+</p>
 

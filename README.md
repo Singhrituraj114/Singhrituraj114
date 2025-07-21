@@ -80,6 +80,6 @@ Besides tech, I’m a digital artist—where creativity meets computation. Art i
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://github.com/Platane/Platane/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/ashutosh1919/github-readme-snake/raw/output/github-contribution-grid-snake.svg" />
 </p>
 

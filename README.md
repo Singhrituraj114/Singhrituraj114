@@ -58,15 +58,11 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Singhrituraj114&theme=github_dark&hide_border=true&show_icons=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Singhrituraj114&theme=github-dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhrituraj114&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Singhrituraj114&theme=github_dark&hide_border=true&show_icons=true&count_private=true" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Singhrituraj114&theme=github-dark&hide_border=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhrituraj114&layout=compact&theme=github_dark&hide_border=true" width="32%" />
 </p>
 
 ---
@@ -74,5 +70,3 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-<!-- Optimized by ChatGPT -->

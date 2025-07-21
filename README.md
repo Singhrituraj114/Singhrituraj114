@@ -63,12 +63,14 @@ I'm Rituraj, an AI/ML enthusiast with a passion for solving real-world problems 
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Singhrituraj114&theme=github_dark&hide_border=true&show_icons=true&count_private=true" width="36%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Singhrituraj114&theme=github-dark&hide_border=true" width="36%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhrituraj114&layout=compact&theme=github_dark&hide_border=true" width="36%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Singhrituraj114&theme=github_dark&hide_border=true&show_icons=true&count_private=true" width="40%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Singhrituraj114&theme=github-dark&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhrituraj114&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
 </p>
 
 ---

@@ -30,23 +30,21 @@ I'm Rituraj, an AI/ML enthusiast with a passion for solving real-world problems 
 
 ---
 
-### 🤝 Open to Collaborate On
-- Machine Learning & Deep Learning Projects  
-- AI/ML in Production (MLOps)  
-- Data Visualization & Real-Time Analytics Pipelines  
+<h2>🤝 Collaboration Interests</h2>
+
+- <b>AI/ML pipelines, MLOps, real-time data systems</b>  
 
 ---
 
-### 💡 Interests
-- AI/ML Research & Applications  
-- Cloud & DevOps Foundations  
-- SQL, Databases & Automation  
-- Creative Resume Designing with Visual Impact  
+<h2>💬 Topics of Interest</h2>
+
+- <b>AI/ML, Cloud, Linux, SQL, Visualization, Resume Building</b>  
 
 ---
 
-### 🎨 Fun Side
-Besides tech, I’m a digital artist—where creativity meets computation. Art is my second language!
+<h2>🎨 Fun Fact</h2>
+
+- <b>Digital artist where logic meets creativity</b>  
 
 ---
 
@@ -82,4 +80,3 @@ Besides tech, I’m a digital artist—where creativity meets computation. Art i
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-

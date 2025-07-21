@@ -79,7 +79,7 @@ Besides tech, I’m a digital artist—where creativity meets computation. Art i
 ---
 
 <!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/ashutosh1919/github-readme-snake/raw/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 

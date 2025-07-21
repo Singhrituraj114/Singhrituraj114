@@ -79,9 +79,8 @@ Besides tech, I’m a digital artist—where creativity meets computation. Art i
 ---
 
 <!-- Snake Animation -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/v3/samples/github-snake-dark.gif" />
+  <img src="https://github.com/Platane/snk/raw/v3/samples/github-snake-dark.svg" />
 </p>
+
 

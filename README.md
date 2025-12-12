@@ -69,22 +69,26 @@ I'm Rituraj, an AI/ML enthusiast with a passion for solving real-world problems 
 
 <p align="center">
 
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Singhrituraj114&theme=github_dark&hide_border=true&show_icons=true&count_private=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Singhrituraj114&show_icons=true&theme=github_dark&hide_border=true&count_private=true" 
     width="30%"
   />
 
+  <!-- Total Commits (include_all_commits) -->
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Singhrituraj114&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" 
     width="30%"
   />
 
+  <!-- Top Languages -->
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Singhrituraj114&layout=compact&theme=github_dark&hide_border=true" 
     width="30%"
   />
 
 </p>
+
 
 ---
 

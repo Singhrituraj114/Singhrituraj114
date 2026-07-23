@@ -38,7 +38,6 @@ publication:
 current_focus:
   - GuavaGuard AI - YOLOv8-OBB real-time multi-disease detection and
     severity grading for guava leaves, with Grad-CAM explainability
-  - RiskInsight-XGB - XGBoost + SHAP credit-risk explainability engine
   - Actively interviewing for Data Science / AI-ML Engineer roles
 
 achievements:
@@ -53,10 +52,10 @@ fun_facts:
 
 ---
 
-## 🏆 Profile Summary
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Singhrituraj114&theme=radical" alt="Profile Summary" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Singhrituraj114&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="95%"/>
 </div>
 
 <br/>
@@ -97,46 +96,38 @@ Real-time multi-disease detection and severity grading in guava leaves using **Y
 </td>
 <td width="50%" valign="top">
 
-**📈 RiskInsight-XGB**
-Credit-risk prediction and explainability engine on **XGBoost**, with **SHAP**-based interpretability behind every prediction.
+**🕸️ [GraphShield](https://github.com/Singhrituraj114/GraphShield-Financial-Fraud-Detection-using-Graph-Neural-Networks)**
+Enterprise-grade fraud detection platform modeling transactions as a graph — accounts as nodes, transactions as edges — classified with a 3-layer **GraphSAGE** GNN.
+- **95.84%** accuracy · **90.81%** recall · **97.98%** ROC-AUC on held-out PaySim data
+- 18 engineered behavioral node features (send/receive patterns, balance deltas, degree, counterparty diversity)
+- Full Streamlit app: interactive network graph, transaction explorer, explainability (perturbation-based feature ablation), executive PDF reports
+- [Live demo](https://graphshield-fraud-detection.streamlit.app/)
 
-`Python` `XGBoost` `SHAP` `scikit-learn`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🕸️ GraphShield**
-Financial fraud detection using **Graph Neural Networks** to model transactions as relational graphs.
-
-`Python` `GNNs` `PyTorch` `Graph ML`
-
-</td>
-<td width="50%" valign="top">
-
-**🌾 YieldSense**
-AI-based crop yield prediction from agricultural and environmental data.
-
-`Python` `Machine Learning` `Data Analytics`
+`Python` `PyTorch` `PyTorch Geometric` `GraphSAGE` `Streamlit` `Plotly`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🦺 SafeGuard Vision**
-Real-time PPE compliance detection for workplace safety using **YOLOv8**.
+**🦺 [IronSight](https://github.com/Singhrituraj114/IronSight-Industrial-Safety-Intelligence-Hub)**
+AI-powered PPE compliance platform on **YOLOv8l** — detects safety gear and missing PPE across 9 compliance / 9 violation classes, on images, video, and live webcam.
+- Compliance scoring engine + audit-ready CSV logs for every inference session
+- Enterprise dashboard: KPI cards, gauge/pie/bar charts, compliance trend analytics
+- Trained on multi-object industrial scenes (Mosaic, MixUp, HSV, scaling, shearing augmentation)
 
-`Python` `YOLOv8` `Computer Vision` `OpenCV`
+`Python` `YOLOv8l` `Streamlit` `Plotly` `OpenCV`
 
 </td>
 <td width="50%" valign="top">
 
-**✈️ AeroSatisfy**
-Predictive modeling of airline passenger satisfaction from survey data.
+**✈️ [AeroVision](https://github.com/Singhrituraj114/AeroVision-Real-Time-Aircraft-Defect-Intelligence-Platform-)**
+Real-time aircraft surface defect detection using a custom-trained **YOLOv8l**, deployed via FastAPI.
+- **89.4% mAP@0.5** across Dent / Fastener Damage / Rupture classes, ~10.1 ms/image inference on GPU
+- Trained on 16,694+ images (43.6M-param YOLOv8l, COCO transfer learning, multi-GPU DDP)
+- FastAPI + Tailwind CSS dashboard with drag-and-drop inference and confidence scoring
 
-`Python` `Pandas` `Machine Learning`
+`Python` `YOLOv8l` `PyTorch` `FastAPI` `Tailwind CSS`
 
 </td>
 </tr>

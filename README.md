@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rituraj Singh 👋</h1>
-<h3 align="center">Aspiring Data Scientist · AI/ML Engineer · Building Systems That Learn</h3>
+<h3 align="center">Aspiring Data Scientist · AI/ML Engineer · Computer Vision & Explainable AI</h3>
 
 <p align="center">
   <a href="mailto:singhrituraj114@gmail.com">
@@ -18,52 +18,161 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Singhrituraj114&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm Rituraj — a B.Tech CSE graduate (SRM Institute of Science and Technology) focused on **deep learning and data analytics**. I like building things that turn messy real-world data into systems people can actually trust: risk models that explain themselves, disease detectors that work in the field, not just in a notebook.
+I'm Rituraj — a **B.Tech Computer Science graduate** from **SRM Institute of Science and Technology, Kattankulathur, Chennai**, with academic work centered on **deep learning and data analytics**. I like building systems that turn messy, real-world data into things people can actually trust — risk models that explain their own decisions, disease detectors that hold up outside a clean notebook environment, and pipelines that are boring in the best way: reliable.
 
-Recently published an **IEEE paper at ICHMS 2026 (NTU Singapore)** on guava leaf multi-disease detection.
+📄 Published an **IEEE paper at ICHMS 2026 (NTU Singapore)** on guava leaf multi-disease detection.
+
+🎯 Currently applying to Data Science / AI-ML Engineer / Computer Vision roles — open to full-time and internship-to-full-time opportunities.
 
 ```python
 class Rituraj:
     def __init__(self):
         self.role = "Data Scientist (aspiring)"
-        self.focus = ["Deep Learning", "Explainable AI", "MLOps"]
-        self.currently_learning = ["Cloud Computing", "Linux Systems", "MariaDB"]
+        self.education = "B.Tech CSE, SRM Institute of Science and Technology"
+        self.focus = ["Deep Learning", "Explainable AI", "Computer Vision", "MLOps"]
+        self.publication = "IEEE ICHMS 2026 (NTU Singapore) — guava leaf multi-disease detection"
         self.philosophy = "logic meets creativity"
 
+    def currently_seeking(self):
+        return ["Data Science roles", "AI/ML Engineer roles", "Computer Vision internships"]
+
     def collaborate_on(self):
-        return ["AI/ML pipelines", "MLOps", "real-time data systems"]
+        return ["AI/ML pipelines", "MLOps", "real-time data systems", "explainable AI"]
 ```
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🍃 GuavaGuard AI**
+Guava leaf multi-disease detection using **YOLOv8-OBB**, wrapped in a Streamlit app with Grad-CAM/activation-based heatmap explainability. Subject of a published IEEE paper (ICHMS 2026, NTU Singapore).
+`Python` `YOLOv8` `Streamlit` `Grad-CAM` `PyTorch`
+
+</td>
+<td width="50%" valign="top">
+
+**📈 RiskInsight-XGB**
+Credit-risk prediction and explainability engine built on **XGBoost**, with **SHAP**-based interpretability so predictions come with a "why," not just a score.
+`Python` `XGBoost` `SHAP` `scikit-learn`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🕸️ GraphShield**
+Financial fraud detection using **Graph Neural Networks** — modeling transactions as relational graphs to catch fraud patterns that flat tabular models miss.
+`Python` `GNNs` `PyTorch` `Graph ML`
+
+</td>
+<td width="50%" valign="top">
+
+**🌾 YieldSense**
+AI-based crop yield prediction — translating agricultural and environmental data into actionable yield forecasts.
+`Python` `Machine Learning` `Data Analytics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🦺 SafeGuard Vision**
+Real-time PPE compliance detection using **YOLOv8** — built for workplace safety monitoring use cases.
+`Python` `YOLOv8` `Computer Vision` `OpenCV`
+
+</td>
+<td width="50%" valign="top">
+
+**✈️ AeroSatisfy**
+Data science project analyzing airline passenger satisfaction — from raw survey data to a predictive model of what actually drives customer satisfaction.
+`Python` `Pandas` `Machine Learning`
+
+</td>
+</tr>
+</table>
+
+> More on GitHub — pinned repos below reflect the latest versions and live demo links.
+
+---
+
+### 📄 Publications
+
+- **Guava Leaf Multi-Disease Detection** — IEEE ICHMS 2026, Nanyang Technological University (NTU), Singapore
+
+---
+
+### 🎓 Education
+
+**B.Tech, Computer Science and Engineering** — SRM Institute of Science and Technology, Kattankulathur, Chennai
+Core CSE track · Academic focus on deep learning and data analytics
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+**Languages**
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+**Machine Learning & Deep Learning**
+<p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-0099CD?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/LightGBM-017F4E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+**Explainability & Interpretability**
+<p align="left">
+  <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grad--CAM-FF4500?style=for-the-badge&logoColor=white"/>
+</p>
+
+**Data & Visualization**
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-4D77CF?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+**Databases**
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+</p>
+
+**Cloud, DevOps & Systems**
+<p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LXC/LXD-333333?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ---
@@ -89,6 +198,10 @@ class Rituraj:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhrituraj114&theme=react-dark&hide_border=true" width="90%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Singhrituraj114&theme=darkhub&no-frame=true&row=1&column=7" width="90%"/>
+</p>
+
 ---
 
 ### 🐍 Contribution Snake
@@ -98,5 +211,18 @@ class Rituraj:
 </p>
 
 ---
+
+### 📫 Let's Connect
+
+I'm always open to conversations about AI/ML, data science, or opportunities where I can contribute — feel free to reach out.
+
+<p align="center">
+  <a href="mailto:singhrituraj114@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rituraj-singh-4b6684273/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center"><i>Thanks for stopping by — always open to collaborating on AI/ML and data projects.</i></p>

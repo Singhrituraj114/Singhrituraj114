@@ -19,6 +19,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Singhrituraj114&style=for-the-badge&color=blueviolet" alt="Profile views"/>
   <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IEEE%20Published-ICHMS%202026-blue?style=for-the-badge"/>
 </p>
 
 ---
@@ -26,6 +27,8 @@
 ### 🧠 About Me
 
 I'm Rituraj — a **B.Tech Computer Science graduate** from **SRM Institute of Science and Technology, Kattankulathur, Chennai**, with academic work centered on **deep learning and data analytics**. I like building systems that turn messy, real-world data into things people can actually trust — risk models that explain their own decisions, disease detectors that hold up outside a clean notebook environment, and pipelines that are boring in the best way: reliable.
+
+Outside of models and metrics, I'm also a **digital artist** — I like the overlap between logic and creativity, whether that's a heatmap explaining a neural network's decision or a piece of digital art.
 
 📄 Published an **IEEE paper at ICHMS 2026 (NTU Singapore)** on guava leaf multi-disease detection.
 
@@ -49,6 +52,16 @@ class Rituraj:
 
 ---
 
+### 🏆 Highlights
+
+- 📄 **IEEE Publication** — presented guava leaf multi-disease detection research at ICHMS 2026, Nanyang Technological University, Singapore
+- 📘 Expanded B.Tech research report from ~39 to **75–80 pages** under strict institutional formatting standards
+- 🧮 Built an interactive **Three.js / WebGL 3D visualizer** comparing gradient descent optimizers and ensemble learning methods (Bagging, Boosting, Random Forest, XGBoost) — from 2D loss-landscape animations to full 3D optimizer racing
+- 🔎 Built interactive visualizations explaining **cosine similarity vs. Euclidean distance** for vector embeddings and vector databases
+- 🎨 Full UI/UX redesign of a deployed ML application with a custom nature-inspired aesthetic
+
+---
+
 ### 🚀 Featured Projects
 
 <table>
@@ -56,14 +69,22 @@ class Rituraj:
 <td width="50%" valign="top">
 
 **🍃 GuavaGuard AI**
-Guava leaf multi-disease detection using **YOLOv8-OBB**, wrapped in a Streamlit app with Grad-CAM/activation-based heatmap explainability. Subject of a published IEEE paper (ICHMS 2026, NTU Singapore).
-`Python` `YOLOv8` `Streamlit` `Grad-CAM` `PyTorch`
+Guava leaf multi-disease detection using **YOLOv8-OBB**, wrapped in a Streamlit app with Grad-CAM/activation-based heatmap explainability.
+- Debugged `torch.inference_mode()` blocking autograd during heatmap generation
+- Implemented HSV-based leaf masking and percentile normalization for cleaner activation maps
+- Full professional UI redesign with a custom nature/bioluminescent aesthetic
+- Subject of a published IEEE paper (ICHMS 2026, NTU Singapore)
+
+`Python` `YOLOv8-OBB` `Streamlit` `Grad-CAM` `PyTorch`
 
 </td>
 <td width="50%" valign="top">
 
 **📈 RiskInsight-XGB**
 Credit-risk prediction and explainability engine built on **XGBoost**, with **SHAP**-based interpretability so predictions come with a "why," not just a score.
+- Feature-level explainability for individual credit decisions
+- Used as a reference case study for applying explainable ML to policy/regulatory analytics
+
 `Python` `XGBoost` `SHAP` `scikit-learn`
 
 </td>
@@ -73,13 +94,15 @@ Credit-risk prediction and explainability engine built on **XGBoost**, with **SH
 
 **🕸️ GraphShield**
 Financial fraud detection using **Graph Neural Networks** — modeling transactions as relational graphs to catch fraud patterns that flat tabular models miss.
-`Python` `GNNs` `PyTorch` `Graph ML`
+
+`Python` `GNNs` `PyTorch` `Graph ML` `Jupyter`
 
 </td>
 <td width="50%" valign="top">
 
 **🌾 YieldSense**
 AI-based crop yield prediction — translating agricultural and environmental data into actionable yield forecasts.
+
 `Python` `Machine Learning` `Data Analytics`
 
 </td>
@@ -89,6 +112,7 @@ AI-based crop yield prediction — translating agricultural and environmental da
 
 **🦺 SafeGuard Vision**
 Real-time PPE compliance detection using **YOLOv8** — built for workplace safety monitoring use cases.
+
 `Python` `YOLOv8` `Computer Vision` `OpenCV`
 
 </td>
@@ -96,13 +120,32 @@ Real-time PPE compliance detection using **YOLOv8** — built for workplace safe
 
 **✈️ AeroSatisfy**
 Data science project analyzing airline passenger satisfaction — from raw survey data to a predictive model of what actually drives customer satisfaction.
+
 `Python` `Pandas` `Machine Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌱 AgroSight-XAI**
+Explainable AI applied to agricultural imaging — part of a broader computer-vision-for-agriculture track alongside GuavaGuard AI.
+
+`Python` `Explainable AI` `Computer Vision`
+
+</td>
+<td width="50%" valign="top">
+
+**🧮 ML Concepts Visualizer**
+Interactive Three.js/WebGL visualizer for ensemble learning (Bagging, Boosting, Random Forest, XGBoost) and gradient descent optimizer behavior in 3D loss landscapes.
+
+`Three.js` `WebGL` `JavaScript`
 
 </td>
 </tr>
 </table>
 
-> More on GitHub — pinned repos below reflect the latest versions and live demo links.
+> Pinned repos below reflect the latest versions with live demo links.
 
 ---
 
@@ -114,8 +157,8 @@ Data science project analyzing airline passenger satisfaction — from raw surve
 
 ### 🎓 Education
 
-**B.Tech, Computer Science and Engineering** — SRM Institute of Science and Technology, Kattankulathur, Chennai
-Core CSE track · Academic focus on deep learning and data analytics
+**B.Tech, Computer Science and Engineering (Core)** — SRM Institute of Science and Technology, Kattankulathur, Chennai
+Academic focus on deep learning and data analytics
 
 ---
 
@@ -125,6 +168,7 @@ Core CSE track · Academic focus on deep learning and data analytics
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
@@ -139,6 +183,7 @@ Core CSE track · Academic focus on deep learning and data analytics
   <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-4B0082?style=for-the-badge&logoColor=white"/>
 </p>
 
 **Explainability & Interpretability**
@@ -155,6 +200,7 @@ Core CSE track · Academic focus on deep learning and data analytics
   <img src="https://img.shields.io/badge/Seaborn-4D77CF?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
 </p>
 
 **Databases**
@@ -209,6 +255,13 @@ Core CSE track · Academic focus on deep learning and data analytics
 <p align="center">
   <img src="https://raw.githubusercontent.com/Singhrituraj114/Singhrituraj114/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+
+---
+
+### 🌐 Also Building
+
+- A **3D, interactive personal portfolio website** — currently in development
+- Ongoing exploration of MLOps and real-time data systems
 
 ---
 

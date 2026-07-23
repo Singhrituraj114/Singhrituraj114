@@ -1,244 +1,123 @@
-<div align="center">
+<h1 align="center">👋 Hey there, I'm Rituraj Singh</h1>
+<h3 align="center"><strong>Aspiring Data Scientist | AI/ML Enthusiast | Tech Explorer</strong></h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:2b0632,50:6a0572,100:c21500&height=200&section=header&text=Rituraj%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Computer%20Vision&descAlignY=58&descSize=18"/>
-
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
-</div>
-
-</br>
-
----
-
-## 🧑‍💻 About Me
-
-```yaml
-name       : Rituraj Singh
-university : SRM Institute of Science and Technology, Kattankulathur, Chennai
-degree     : B.Tech Computer Science & Engineering (Core)
-email      : singhrituraj114@gmail.com
-
-research_interests:
-  - Data Science and Statistical Modeling
-  - Machine Learning and Deep Learning
-  - Computer Vision
-  - Explainable AI (XAI)
-  - Data Analytics and Predictive Modeling
-  - MLOps and Model Deployment
-  - Natural Language Processing
-
-publication:
-  - title   : "Multi-Disease Detection and Severity Grading in Guava Leaves
-               Using Deep Learning: A Real-Time Framework for Precision Agriculture"
-    venue   : IEEE, presented at ICHMS 2026, Nanyang Technological University (NTU), Singapore
-    link    : https://ieeexplore.ieee.org/document/11602401
-
-current_focus:
-  - GuavaGuard AI - YOLOv8-OBB real-time multi-disease detection and
-    severity grading for guava leaves, with Grad-CAM explainability
-  - Actively interviewing for Data Science / AI-ML Engineer roles
-
-achievements:
-  - Published, peer-reviewed IEEE paper (ICHMS 2026, NTU Singapore)
-
-fun_facts:
-  - Digital artist - logic meets creativity
-  - Believes explainability is as important as accuracy
-```
-
-<br/>
+<p align="center">
+  <a href="mailto:singhrituraj114@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rituraj-singh-4b6684273/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/riturajsingh_114/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/671877752647057460">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO Achievement" width="56"/>
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark Achievement" width="56"/>
-
-</div>
-
-<br/>
+### 🚀 About Me
+I'm Rituraj, an AI/ML enthusiast with a passion for solving real-world problems through data and intelligent systems. I blend logical thinking with creativity—whether it’s building ML models, exploring cloud tech, or creating digital art.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Singhrituraj114&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Singhrituraj114&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320" height="170" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Singhrituraj114&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak"/>
-</div>
-
-<br/>
+### 🎓 Currently Learning
+- 🎓 Executive PG in AI/ML – *iHUB Divyasampark, IIT Roorkee*  
+- ☁️ NPTEL Cloud Computing – *Elite Certificate (75%)*  
+- 🐧 Linux Systems, LXC/LXD containers, MariaDB administration  
 
 ---
 
-## 🚀 Featured Projects
+<h2>🤝 Collaboration Interests</h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- <b>AI/ML pipelines, MLOps, real-time data systems</b>  
 
-**🍃 [GuavaGuard AI](https://github.com/Singhrituraj114/Multi-Disease-Detection-and-Severity-Grading-in-Guava-Leaves-using-Deep-Learning)**
-Multi-disease detection and pixel-accurate severity grading in guava leaves using **YOLOv8-OBB**, deployed as a Streamlit app with Grad-CAM explainability.
-- **93.2% mAP@0.5**, 91.8% precision, 89.4% recall across 5 classes (Anthracnose, Nutrient Deficiency, Wilt, Insect Attack, Healthy)
-- Severity estimation via HSV leaf segmentation + pixel-wise pathogen load (R² = 0.91 vs. ground truth)
-- Multi-layer Grad-CAM heatmaps + automated PDF diagnostic reports with treatment recommendations
-- Basis for a published IEEE paper (ICHMS 2026, NTU Singapore)
+---
 
-`Python` `PyTorch` `YOLOv8-OBB` `Grad-CAM` `Streamlit` `OpenCV`
+<h2>💬 Topics of Interest</h2>
 
-</td>
-<td width="50%" valign="top">
+- <b>AI/ML, Cloud, Linux, SQL, Visualization, Resume Building</b>  
 
-**🕸️ [GraphShield](https://github.com/Singhrituraj114/GraphShield-Financial-Fraud-Detection-using-Graph-Neural-Networks)**
-Enterprise-grade fraud detection platform modeling transactions as a graph — accounts as nodes, transactions as edges — classified with a 3-layer **GraphSAGE** GNN.
-- **95.84%** accuracy · **90.81%** recall · **97.98%** ROC-AUC on held-out PaySim data
-- 18 engineered behavioral node features (send/receive patterns, balance deltas, degree, counterparty diversity)
-- Full Streamlit app: interactive network graph, transaction explorer, explainability (perturbation-based feature ablation), executive PDF reports
-- [Live demo](https://graphshield-fraud-detection.streamlit.app/)
+---
 
-`Python` `PyTorch` `PyTorch Geometric` `GraphSAGE` `Streamlit` `Plotly`
+<h2>🎨 Fun Fact</h2>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+- <b>Digital artist where logic meets creativity</b>  
 
-**🦺 [IronSight](https://github.com/Singhrituraj114/IronSight-Industrial-Safety-Intelligence-Hub)**
-AI-powered PPE compliance platform on **YOLOv8l** — detects safety gear and missing PPE across 9 compliance / 9 violation classes, on images, video, and live webcam.
-- Compliance scoring engine + audit-ready CSV logs for every inference session
-- Enterprise dashboard: KPI cards, gauge/pie/bar charts, compliance trend analytics
-- Trained on multi-object industrial scenes (Mosaic, MixUp, HSV, scaling, shearing augmentation)
+---
 
-`Python` `YOLOv8l` `Streamlit` `Plotly` `OpenCV`
+<h2>💻 Tech Stack</h2>
+<p align="center">
 
-</td>
-<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
-**✈️ [AeroVision](https://github.com/Singhrituraj114/AeroVision-Real-Time-Aircraft-Defect-Intelligence-Platform-)**
-Real-time aircraft surface defect detection using a custom-trained **YOLOv8l**, deployed via FastAPI.
-- **89.4% mAP@0.5** across Dent / Fastener Damage / Rupture classes, ~10.1 ms/image inference on GPU
-- Trained on 16,694+ images (43.6M-param YOLOv8l, COCO transfer learning, multi-GPU DDP)
-- FastAPI + Tailwind CSS dashboard with drag-and-drop inference and confidence scoring
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-0099CD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-017F4E?style=for-the-badge&logoColor=white"/>
 
-`Python` `YOLOv8l` `PyTorch` `FastAPI` `Tailwind CSS`
 
-</td>
-</tr>
+  <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=yellow"/>
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-4D77CF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LXC/LXD-333333?style=for-the-badge&logo=linux&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+
+---
+
+### 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Singhrituraj114&show_icons=true&theme=github_dark&hide_border=true&count_private=true" 
+        width="300px"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Singhrituraj114&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" 
+        width="300px"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Singhrituraj114&layout=compact&theme=github_dark&hide_border=true" 
+        width="300px"
+      />
+    </td>
+  </tr>
 </table>
 
-<br/>
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI / ML / Deep Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0099CD?style=for-the-badge&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-017F4E?style=for-the-badge&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Explainability**
-
-![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge&logoColor=white)
-![Grad-CAM](https://img.shields.io/badge/Grad--CAM-FF4500?style=for-the-badge&logoColor=white)
-
-**Data & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4D77CF?style=for-the-badge&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-**Cloud, DevOps & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br/>
-
-## 📈 Contribution Activity
-
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhrituraj114&theme=radical&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</div>
-
-<br/>
-
----
-
-## 🐍 Snake eating my contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Singhrituraj114/Singhrituraj114/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Singhrituraj114/Singhrituraj114/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Singhrituraj114/Singhrituraj114/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
-
-<br/>
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rituraj-singh-4b6684273/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riturajsingh_114/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/671877752647057460)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhrituraj114@gmail.com)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Singhrituraj114&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>

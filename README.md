@@ -52,10 +52,18 @@ fun_facts:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Singhrituraj114&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="95%"/>
+
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO Achievement" width="56"/>
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark Achievement" width="56"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Singhrituraj114?style=for-the-badge&color=6a0572&label=Followers"/>
+<img src="https://img.shields.io/github/stars/Singhrituraj114?style=for-the-badge&color=c21500&label=Stars"/>
+
 </div>
 
 <br/>

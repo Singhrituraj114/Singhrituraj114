@@ -19,32 +19,78 @@
 ---
 
 ### 🚀 About Me
-I'm Rituraj, an AI/ML enthusiast with a passion for solving real-world problems through data and intelligent systems. I blend logical thinking with creativity—whether it’s building ML models, exploring cloud tech, or creating digital art.
-
----
-
-### 🎓 Currently Learning
-- 🎓 Executive PG in AI/ML – *iHUB Divyasampark, IIT Roorkee*  
-- ☁️ NPTEL Cloud Computing – *Elite Certificate (75%)*  
-- 🐧 Linux Systems, LXC/LXD containers, MariaDB administration  
+I'm Rituraj, an AI/ML enthusiast with a passion for solving real-world problems through data and intelligent systems. I blend logical thinking with creativity—whether it's building ML models, exploring cloud tech, or creating digital art.
 
 ---
 
 <h2>🤝 Collaboration Interests</h2>
 
-- <b>AI/ML pipelines, MLOps, real-time data systems</b>  
+- <b>AI/ML pipelines, MLOps, real-time data systems</b>
 
 ---
 
 <h2>💬 Topics of Interest</h2>
 
-- <b>AI/ML, Cloud, Linux, SQL, Visualization, Resume Building</b>  
+- <b>AI/ML, Cloud, Linux, SQL, Visualization, Resume Building</b>
 
 ---
 
 <h2>🎨 Fun Fact</h2>
 
-- <b>Digital artist where logic meets creativity</b>  
+- <b>Digital artist where logic meets creativity</b>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🍃 [GuavaGuard AI](https://github.com/Singhrituraj114/Multi-Disease-Detection-and-Severity-Grading-in-Guava-Leaves-using-Deep-Learning)**
+Multi-disease detection and pixel-accurate severity grading in guava leaves using **YOLOv8-OBB**, deployed as a Streamlit app with Grad-CAM explainability.
+- **93.2% mAP@0.5**, 91.8% precision, 89.4% recall across 5 classes (Anthracnose, Nutrient Deficiency, Wilt, Insect Attack, Healthy)
+- Severity estimation via HSV leaf segmentation + pixel-wise pathogen load (R² = 0.91 vs. ground truth)
+- Basis for a published IEEE paper (ICHMS 2026, NTU Singapore)
+
+`Python` `PyTorch` `YOLOv8-OBB` `Grad-CAM` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+**🕸️ [GraphShield](https://github.com/Singhrituraj114/GraphShield-Financial-Fraud-Detection-using-Graph-Neural-Networks)**
+Enterprise-grade fraud detection platform modeling transactions as a graph — accounts as nodes, transactions as edges — classified with a 3-layer **GraphSAGE** GNN.
+- **95.84%** accuracy · **90.81%** recall · **97.98%** ROC-AUC on held-out PaySim data
+- Interactive network graph, explainability, executive PDF reports
+- [Live demo](https://graphshield-fraud-detection.streamlit.app/)
+
+`Python` `PyTorch Geometric` `GraphSAGE` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🦺 [IronSight](https://github.com/Singhrituraj114/IronSight-Industrial-Safety-Intelligence-Hub)**
+AI-powered PPE compliance platform on **YOLOv8l** — detects safety gear and missing PPE across 9 compliance / 9 violation classes, on images, video, and live webcam.
+- Compliance scoring engine + audit-ready CSV logs
+- Enterprise dashboard: KPI cards, gauge/pie/bar charts, trend analytics
+
+`Python` `YOLOv8l` `Streamlit` `OpenCV`
+
+</td>
+<td width="50%" valign="top">
+
+**✈️ [AeroVision](https://github.com/Singhrituraj114/AeroVision-Real-Time-Aircraft-Defect-Intelligence-Platform-)**
+Real-time aircraft surface defect detection using a custom-trained **YOLOv8l**, deployed via FastAPI.
+- **89.4% mAP@0.5** across Dent / Fastener Damage / Rupture, ~10.1 ms/image on GPU
+- Trained on 16,694+ images (43.6M-param YOLOv8l, multi-GPU DDP)
+
+`Python` `YOLOv8l` `PyTorch` `FastAPI`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -60,7 +106,6 @@ I'm Rituraj, an AI/ML enthusiast with a passion for solving real-world problems 
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-0099CD?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/LightGBM-017F4E?style=for-the-badge&logoColor=white"/>
-
 
   <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge&logoColor=white"/>
 
@@ -86,7 +131,6 @@ I'm Rituraj, an AI/ML enthusiast with a passion for solving real-world problems 
 
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -94,30 +138,41 @@ I'm Rituraj, an AI/ML enthusiast with a passion for solving real-world problems 
 <table align="center">
   <tr>
     <td align="center">
-      <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Singhrituraj114&show_icons=true&theme=github_dark&hide_border=true&count_private=true" 
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Singhrituraj114&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
         width="300px"
       />
     </td>
     <td align="center">
-      <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Singhrituraj114&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" 
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Singhrituraj114&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true"
         width="300px"
       />
     </td>
     <td align="center">
-      <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Singhrituraj114&layout=compact&theme=github_dark&hide_border=true" 
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Singhrituraj114&layout=compact&theme=github_dark&hide_border=true"
         width="300px"
       />
     </td>
   </tr>
 </table>
 
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhrituraj114&theme=github-dark&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+</div>
 
 ---
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Singhrituraj114/Singhrituraj114/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Singhrituraj114/Singhrituraj114/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Singhrituraj114/Singhrituraj114/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
 </div>

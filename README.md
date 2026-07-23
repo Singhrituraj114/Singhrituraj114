@@ -84,14 +84,14 @@ fun_facts:
 <tr>
 <td width="50%" valign="top">
 
-**🍃 GuavaGuard AI**
-Real-time multi-disease detection and severity grading in guava leaves using **YOLOv8-OBB**, deployed as a Streamlit app with Grad-CAM explainability.
-- Debugged `torch.inference_mode()` blocking autograd during heatmap generation
-- HSV-based leaf masking + percentile normalization for cleaner activation maps
-- Full UI redesign with a custom nature/bioluminescent aesthetic
+**🍃 [GuavaGuard AI](https://github.com/Singhrituraj114/Multi-Disease-Detection-and-Severity-Grading-in-Guava-Leaves-using-Deep-Learning)**
+Multi-disease detection and pixel-accurate severity grading in guava leaves using **YOLOv8-OBB**, deployed as a Streamlit app with Grad-CAM explainability.
+- **93.2% mAP@0.5**, 91.8% precision, 89.4% recall across 5 classes (Anthracnose, Nutrient Deficiency, Wilt, Insect Attack, Healthy)
+- Severity estimation via HSV leaf segmentation + pixel-wise pathogen load (R² = 0.91 vs. ground truth)
+- Multi-layer Grad-CAM heatmaps + automated PDF diagnostic reports with treatment recommendations
 - Basis for a published IEEE paper (ICHMS 2026, NTU Singapore)
 
-`Python` `YOLOv8-OBB` `Streamlit` `Grad-CAM` `PyTorch`
+`Python` `PyTorch` `YOLOv8-OBB` `Grad-CAM` `Streamlit` `OpenCV`
 
 </td>
 <td width="50%" valign="top">

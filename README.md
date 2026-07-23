@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rituraj%20Singh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Computer%20Vision&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:2b0632,50:6a0572,100:c21500&height=200&section=header&text=Rituraj%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20Computer%20Vision&descAlignY=58&descSize=18"/>
 
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 </div>
 
 </br>
@@ -210,8 +210,6 @@ Real-time aircraft surface defect detection using a custom-trained **YOLOv8l**, 
     <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Singhrituraj114/Singhrituraj114/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
-
-> **To activate:** add the `snake.yml` workflow to `.github/workflows/` in your profile repo (`Singhrituraj114/Singhrituraj114`), then trigger it once from the Actions tab. It re-renders automatically from your real contribution graph every 12 hours after that.
 
 <br/>
 
